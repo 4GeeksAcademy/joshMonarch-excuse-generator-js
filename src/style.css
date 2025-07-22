@@ -1,5 +1,13 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
-body{
-    background: white;
+body {
+    font-family: 'Roboto', sans-serif;
 }
+
+.d-flex {
+    border-radius: 5%;
+    backdrop-filter: blur(4px);
+    box-shadow: 0 0 20px rgb(169, 169, 169);
+}
+
+
